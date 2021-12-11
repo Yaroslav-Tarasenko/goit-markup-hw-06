@@ -1095,7 +1095,7 @@ body {
 }
 
 .modal-form-checkbox::before{
-  content: '';
+  content: "";
   height: 15px;
   width: 16px;
   border: 2px solid #212121;
